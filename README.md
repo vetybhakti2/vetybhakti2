@@ -23,9 +23,9 @@ Programming: Python, SQL
 - Exploring large-scale data processing with cloud platforms
 
 🌱 Always learning and staying updated with the latest in data science and AI  
-💬 Let's collaborate to create data-driven innovations!
+💬 Let's collaborate to create data-driven innovations!  
     [LinkedIn](https://www.linkedin.com/in/vetybhaktilestari/)    
-    [Gmail] (vetylestari3@gmail.com)   
+    [Email](vetylestari3@gmail.com)   
     [Threads](https://www.threads.net/@vetybhakti2)  
 
 
