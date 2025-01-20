@@ -24,8 +24,8 @@ Programming: Python, SQL
 
 🌱 Always learning and staying updated with the latest in data science and AI  
 💬 Let's collaborate to create data-driven innovations!
--  linkedin: Vety Bhakti Lestari 
--  medium: vetylestari3.medium.com 
+    -  linkedin: Vety Bhakti Lestari 
+    -  medium: vetylestari3.medium.com 
 
 
 <!---
