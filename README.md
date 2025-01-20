@@ -10,11 +10,11 @@
 
 ## 🚀 Skills & Tools
 
-Programming: Python, SQL
-Frameworks & Libraries: FastAPI, TensorFlow, PyTorch
-Tools: Docker, Poetry, AWS, Milvus, Pinecone
-Databases: PostgreSQL
-Visualization: QuickSight, Looker Studio, Power BI, and Tableau
+Programming: Python, SQL  
+Frameworks & Libraries: FastAPI, TensorFlow, PyTorch  
+Tools: Docker, Poetry, AWS, Milvus, Pinecone  
+Databases: PostgreSQL  
+Visualization: QuickSight, Looker Studio, Power BI, and Tableau  
 
 ## 📈 Current Focus
 
