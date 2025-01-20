@@ -22,11 +22,10 @@ Programming: Python, SQL
 - Optimizing recommendation systems with collaborative filtering & deep learning
 - Exploring large-scale data processing with cloud platforms
 
-📬 Let's Connect
-  -     linkedin: Vety Bhakti Lestari 
-  -     medium: vetylestari3.medium.com 
-
-🌱 Always learning and staying updated with the latest in data science and AI.💬 Let's collaborate to create data-driven innovations!
+🌱 Always learning and staying updated with the latest in data science and AI  
+💬 Let's collaborate to create data-driven innovations!
+-  linkedin: Vety Bhakti Lestari 
+-  medium: vetylestari3.medium.com 
 
 
 <!---
