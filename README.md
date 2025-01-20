@@ -24,9 +24,9 @@ Programming: Python, SQL
 
 🌱 Always learning and staying updated with the latest in data science and AI  
 💬 Let's collaborate to create data-driven innovations!
-    [LinkedIn]([https://www.linkedin.com/in/vetybhaktilestari](https://www.linkedin.com/in/vetybhaktilestari/))  
-    [Gmail] (vetylestari3@gmail.com)  
-    [Threads]([https://www.threads.net/@vety](https://www.threads.net/@vetybhakti2))
+    [LinkedIn](https://www.linkedin.com/in/vetybhaktilestari/)    
+    [Gmail] (vetylestari3@gmail.com)   
+    [Threads](https://www.threads.net/@vetybhakti2)  
 
 
 
