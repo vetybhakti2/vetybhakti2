@@ -2,11 +2,11 @@
 
 💡 Data Scientist | Machine Learning Enthusiast | AI Engineer Aspirant
 
-🔍 Passionate about transforming data into impactful solutions
-🏗️ Experienced in building dashboards, machine learning models, and AI projects
-⚡ Skilled in Python, SQL, FastAPI, Docker, and AWS
-📊 Strong in data visualization using QuickSight and Power BI
-🧠 Exploring advanced topics in ML/AI, including recommendation systems and computer vision
+🔍 Passionate about transforming data into impactful solutions  
+🏗️ Experienced in building dashboards, machine learning models, and AI projects  
+⚡ Skilled in Python, SQL, FastAPI, Docker, and AWS  
+📊 Strong in data visualization using QuickSight and Power BI  
+🧠 Exploring advanced topics in ML/AI, including recommendation systems and computer vision  
 
 ## 🚀 Skills & Tools
 
