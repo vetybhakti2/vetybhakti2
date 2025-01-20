@@ -2,7 +2,11 @@
 
 💡 Data Scientist | Machine Learning Enthusiast | AI Engineer Aspirant
 
-🔍 Passionate about transforming data into impactful solutions.🏗️ Experienced in building dashboards, machine learning models, and AI projects.⚡ Skilled in Python, SQL, FastAPI, Docker, and AWS.📊 Strong in data visualization using QuickSight and Looker Studio.🧠 Exploring advanced topics in ML/AI, including recommendation systems and computer vision.
+🔍 Passionate about transforming data into impactful solutions
+🏗️ Experienced in building dashboards, machine learning models, and AI projects
+⚡ Skilled in Python, SQL, FastAPI, Docker, and AWS
+📊 Strong in data visualization using QuickSight and Power BI
+🧠 Exploring advanced topics in ML/AI, including recommendation systems and computer vision
 
 ## 🚀 Skills & Tools
 
@@ -10,11 +14,11 @@ Programming: Python, SQL
 
 Frameworks & Libraries: FastAPI, TensorFlow, PyTorch
 
-Tools: Docker, Poetry, AWS, Milvus
+Tools: Docker, Poetry, AWS, Milvus, Pinecone
 
 Databases: PostgreSQL
 
-Visualization: QuickSight, Looker Studio
+Visualization: QuickSight, Looker Studio, Power BI, and Tableau
 
 ## 📈 Current Focus
 
@@ -25,9 +29,8 @@ Optimizing recommendation systems with collaborative filtering & deep learning
 Exploring large-scale data processing with cloud platforms
 
 📬 Let's Connect
-  -     linkedin: Vety Bhakti Lestari 
+  -     linkedin: Vety Bhakti Lestari https://www.linkedin.com/in/vetybhaktilestari/
   -     medium: vetylestari3.medium.com 
-  -     instagram: vetybhakti2
 
 🌱 Always learning and staying updated with the latest in data science and AI.💬 Let's collaborate to create data-driven innovations!
 
