@@ -19,7 +19,6 @@ Programming: Python, SQL
 ## 📈 Current Focus
 
 - Enhancing AI deployment strategies with Docker & FastAPI
-- Optimizing recommendation systems with collaborative filtering & deep learning
 - Exploring large-scale data processing with cloud platforms
 
 🌱 Always learning and staying updated with the latest in data science and AI  
